@@ -1,17 +1,62 @@
 DiaryHentai
 
-DiaryHentai is a modern web platform designed to provide an organized and user-friendly experience for browsing and managing digital content. The project focuses on delivering a simple interface, fast performance, and a responsive design that works across desktop and mobile devices.
+Welcome to DiaryHentai — a modern digital content platform focused on providing a fast, organized, and responsive browsing experience.
 
-Features
-Responsive website design for all screen sizes
-Fast and lightweight user interface
-Content organization system
-Secure administration management
-Optimized performance for better user experience
-Clean and modern UI design
-License
+DiaryHentai delivers a premium viewing experience with optimized performance, mobile-friendly design, and reliable content access across different devices.
 
-This project is for personal and educational purposes. All rights reserved.
+🌐 Website
+
+https://diaryhentai.com/
+
+✨ Features
+HD content streaming experience
+Daily content updates
+English subtitle support
+Multi-mirror availability
+Fast loading and optimized delivery
+Mobile & desktop responsive design
+Clean and user-friendly interface
+🚀 Platform Goals
+
+DiaryHentai focuses on building a modern media platform with:
+
+Efficient content organization
+Smooth user experience
+Performance optimization
+Scalable web architecture
+Reliable access across devices
+🛠 Technology
+
+The platform is developed using modern web technologies with emphasis on:
+
+Responsive frontend design
+Optimized backend performance
+Secure server configuration
+Database efficiency
+Fast content delivery
+📱 Supported Devices
+
+DiaryHentai is designed to work smoothly on:
+
+Desktop browsers
+Mobile devices
+Tablets
+🔒 Security & Privacy
+
+We prioritize:
+
+Secure infrastructure
+Regular system maintenance
+Performance monitoring
+Safe browsing experience
+📌 Project Status
+
+Active development with continuous improvements in:
+
+Website performance
+User experience
+System reliability
+Platform features
 
 Contact
 
